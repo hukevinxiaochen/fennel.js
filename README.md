@@ -1,5 +1,6 @@
 Fennel.js
 =========
+A fork of the following project because the last update of the original project was in 2018...
 
 ![Fennel.js](https://raw.github.com/LordEidi/fennel.js/master/fennel_logo.png)
 

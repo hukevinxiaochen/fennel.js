@@ -1,11 +1,11 @@
 {
   "name": "fennel",
   "author": {
-    "name": "LordEidi from SwordLord - the coding crew",
-    "email": "<lordeidi@swordlord.com>",
-    "url": "https://swordlord.com/"
+    "name": "Kevin Hu",
+    "email": "hukxchen@gmail.com",
+    "url": "https://hukev.com"
   },
-  "description": "Fennel is a lightweight CardDAV / CalDAV server",
+  "description": "This is a fork of Fennel - a lightweight CardDAV / CalDAV server written by LordEidi of SwordLord - the coding crew.",
   "keywords": [
     "caldav",
     "carddav",
@@ -16,15 +16,15 @@
   "main": "server.js",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/LordEidi/fennel/issues"
+    "url": "https://github.com/hukevinxiaochen/fennel/issues"
   },
   "scripts": {
     "test": "tape test/**/*.js | faucet"
   },
-  "homepage": "https://github.com/LordEidi/fennel",
+  "homepage": "https://github.com/hukevinxiaochen/fennel",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LordEidi/fennel.git"
+    "url": "https://github.com/hukevinxiaochen/fennel.git"
   },
   "dependencies": {
     "crossroads": "^0.12.2",

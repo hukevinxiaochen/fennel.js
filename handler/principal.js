@@ -8,7 +8,7 @@
  **
  -----------------------------------------------------------------------------*/
 
-var xml = require("libxmljs");
+var xml = require("libxmljs2");
 var xh = require("../libs/xmlhelper");
 var log = require('../libs/log').log;
 

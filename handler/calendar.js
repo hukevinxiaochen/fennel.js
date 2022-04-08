@@ -8,7 +8,7 @@
  **
  -----------------------------------------------------------------------------*/
 
-var xml = require("libxmljs");
+var xml = require("libxmljs2");
 var moment = require('moment');
 
 var xh = require("../libs/xmlhelper");

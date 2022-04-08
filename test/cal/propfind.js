@@ -32,7 +32,7 @@
  -----------------------------------------------------------------------------*/
 var test = require('tape');
 var request = require('request');
-var xml = require("libxmljs");
+var xml = require("libxmljs2");
 
 var config = require('../../config').config;
 
